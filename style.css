@@ -6,6 +6,7 @@
 }
 
 
+
 header {
     margin: 45px 0px 100px 42px;
 }
@@ -93,6 +94,10 @@ p {
     color: #6FBF44;
     text-decoration: none;
     cursor: pointer;
+
+    &:active {
+        color: #000;
+    }
 }
 
 
