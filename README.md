@@ -1,7 +1,7 @@
-# Primeiro Projeto
+# Terceiro Projeto
 
 ![Design da página](./img/design-page.png)
-Meu primeiro projeto do DevClub Utilizando HTML e CSS.
+Terceiro projeto do DevClub Utilizando HTML e CSS.
 ## Tecnologias Utilizadas
 
 - HTML5
